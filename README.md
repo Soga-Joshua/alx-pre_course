@@ -1,1 +1,1 @@
-My first readme
+Ensure all boxes are checked, leave nothing undone
